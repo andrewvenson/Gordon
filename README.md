@@ -14,6 +14,8 @@ to code a fully functional personal assistant.
 
 This python based personal assistant will be able to recognize speech as well
 as use Google's speech recognition services to interact with any user.
+Gordon (The name of the personal assistant) will be able to tell jokes, play music,
+give definitions, and read a scripture from the bible (Yay Jesus).
 I will also be planning on creating a facial recognition feature to make 
 the user experience much more realistic.
 
